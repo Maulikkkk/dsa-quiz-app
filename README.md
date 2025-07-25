@@ -16,6 +16,12 @@ Review of correct answers after quiz completion
 
 ---
 
+## 🚀 Live Demo
+
+👉 **[Try it Live Here!](https://dsa-quiz-mg.vercel.app/)**
+
+---
+
 ## 🔧 Tech Stack
 
 - **HTML5** (structure)  
